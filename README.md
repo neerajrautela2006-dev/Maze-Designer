@@ -1,2 +1,2 @@
-# Maze Designer
+# Maze Designer *
 
